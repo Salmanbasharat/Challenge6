@@ -1,2 +1,2 @@
-# Challenge6
-API's
+## **PROJECT OVERVIEW**
+This project is about using API's. I have added the weather description to the weather data. Then, user can provide input statements to filter the data for their weather preferences, which will be used to identify potential travel destinations and nearby hotels. From the list of potential travel destinations, the user will choose four cities to create a travel itinerary. Finally, using the Google Maps Directions API, I have created a travel route between the four cities as well as a marker layer map.
